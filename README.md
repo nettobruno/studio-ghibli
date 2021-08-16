@@ -8,4 +8,6 @@ Nome dos Desenvolvedores: Bruno Netto e Marcos Pedro
 
 Tecnologias utilizadas: HTML e CSS
 
+Primeros commit Marcos Pedro 
+
 ----
