@@ -10,4 +10,6 @@ Tecnologias utilizadas: HTML e CSS
 
 Primeros commit Marcos Pedro 
 
+Bruno netto é foda !
+
 ----
