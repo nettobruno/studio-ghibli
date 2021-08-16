@@ -6,4 +6,6 @@ Este projeto foi pego em um site de challenges Front End. Estou usando ele em co
 
 Nome dos Desenvolvedores: Bruno Netto e Marcos Pedro
 
+Tecnologias utilizadas: HTML e CSS
+
 ----
