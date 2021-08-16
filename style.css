@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased !important;
+}
+
+div#container {
+  background-image: linear-gradient(to right bottom, #628e75, #497d70, #346b69, #245a60, #1a4855);
+  height: 100vh;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
